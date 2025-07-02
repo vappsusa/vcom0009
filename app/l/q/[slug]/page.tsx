@@ -9,6 +9,7 @@ import { Progress } from "@/components/ui/progress";
 import { Separator } from "@/components/ui/separator";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Skeleton } from "@/components/ui/skeleton";
 import { motion } from "framer-motion";
 import { 
@@ -146,7 +147,7 @@ I strongly recommend engaging counsel within the next 30 days to ensure all clai
 3. **Unemployment benefits**: File immediately regardless of lawsuit
 4. **New employment**: Don't let litigation prevent job searching
 
-**Settlement reality**: Most cases settle for 3-12 months of salary plus benefits. Trials are rare (\u003c5% of cases).
+**Settlement reality**: Most cases settle for 3-12 months of salary plus benefits. Trials are rare (<5% of cases).
 
 **Practical tip**: Many attorneys offer contingency fee arrangements for strong cases like yours, meaning no upfront costs.
 
